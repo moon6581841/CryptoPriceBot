@@ -1,4 +1,5 @@
 import requests
+
 import time
 
 # Set the crypto you want to monitor
